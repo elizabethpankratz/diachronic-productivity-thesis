@@ -1,4 +1,4 @@
-# Quantifying diachronic productivity M.A. thesis
+# Quantifying diachronic productivity (M.A. thesis)
 
 This repository will contain the data and R scripts used for my M.A. thesis project, done at the Humboldt-Universität zu Berlin in the summer semester 2019 under the supervision of Prof. Dr. Anke Lüdeling.
 
