@@ -1,0 +1,271 @@
+id,lemma,norm,clean,date,lang_area,lang_type,place,title
+86798000,Zauberer,Zauberer,zauberer,1482,obd,enhg,Augsburg,BuchDerNatur
+86800746,Schreiber,Schreiber,schreyber,1482,obd,enhg,Augsburg,BuchDerNatur
+86816074,Zauberer,Zauberer,zauberer,1482,obd,enhg,Augsburg,BuchDerNatur
+86834387,Sünder,Sünder,sünder,1482,obd,enhg,Augsburg,BuchDerNatur
+87479036,Schöpfer,Schöpfer,schöpfer,1487,obd,enhg,Ulm,GartDerGesundheit
+87481950,Schöpfer,Schöpfer,schöpffer,1487,obd,enhg,Ulm,GartDerGesundheit
+87482680,Schöpfer,Schöpfer,schöpffer,1487,obd,enhg,Ulm,GartDerGesundheit
+87485226,Maler,Maler,maler,1487,obd,enhg,Ulm,GartDerGesundheit
+87489154,Schöpfer,Schöpfer,schöpfer,1487,obd,enhg,Ulm,GartDerGesundheit
+87563009,Zeiger,Zeiger,zaiger,1487,obd,enhg,Ulm,GartDerGesundheit
+87601777,Lehrer,Lehrer,lerer,1487,obd,enhg,Ulm,GartDerGesundheit
+87600899,Gärtner,Gärtnern,gärtnern,1487,obd,enhg,Ulm,GartDerGesundheit
+86657498,Frierer,Frierer,fryrer,1532,md,enhg,Leipzig,ArtzneyBuchleinDerKreutter
+86667905,Zeiger,Zeiger,zeyger,1532,md,enhg,Leipzig,ArtzneyBuchleinDerKreutter
+86846118,Persier,Persier,Persier,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86855248,Bettler,Bettler,betteler,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86874693,Lehrer,Lehrer,leerer,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86889817,Weber,Weber,Weber,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86904789,Spanier,Spanier,Spaniöler,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86913939,Apotheker,Apotheker,Apothecker,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86948699,Afrikaner,Afrikaner,Aphricaner,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86966054,Schwärmer,Landschwärmer,landtschwörmer,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86970513,Römer,Römer,Römer,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86979257,Ausleger,Ausleger,auszleger,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86992299,Buchhalter,Buchhalter,Buchhalter,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86993918,Leser,Leser,Leszer,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86920546,Apotheker,Apotheker,apothecker,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86844323,Gänger,Weggängern,wäggengeren,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86844343,Läufer,Läufern,läufferen,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86936776,Wurzeler,Wurzelern,Wurtzeleren,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86966534,Hümpler,Hümplern,hympeleren,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+86970672,Römer,Römern,Römeren,1532,md,enhg,Straßburg,ContrafaytKreuterbuch
+88059591,Apotheker,Apotheker,Apotecker,1539,md,enhg,Straßburg,NewKreuetterBuch
+88060455,Leser,Leser,Leser,1539,md,enhg,Straßburg,NewKreuetterBuch
+88063063,Troianer,Troianer,Troianer,1539,md,enhg,Straßburg,NewKreuetterBuch
+88066343,Ausleger,Ausleger,auszleger,1539,md,enhg,Straßburg,NewKreuetterBuch
+88067974,Ägypter,Ägypter,Aegypter,1539,md,enhg,Straßburg,NewKreuetterBuch
+88079281,Schäfer,Schäfer,schäffer,1539,md,enhg,Straßburg,NewKreuetterBuch
+88086043,Araber,Araber,Arabter,1539,md,enhg,Straßburg,NewKreuetterBuch
+88088659,Brecher,Zahnbrechern,zanbrecher,1539,md,enhg,Straßburg,NewKreuetterBuch
+88094159,Römer,Römer,Römer,1539,md,enhg,Straßburg,NewKreuetterBuch
+88095392,Reiser,Reiser,reiser,1539,md,enhg,Straßburg,NewKreuetterBuch
+88121899,Gärtner,Gärtner,gartner,1539,md,enhg,Straßburg,NewKreuetterBuch
+88122535,Apotheker,Apotheker,Apotecker,1539,md,enhg,Straßburg,NewKreuetterBuch
+88134873,Gärtner,Gärtner,gärtner,1539,md,enhg,Straßburg,NewKreuetterBuch
+88135884,Schweizer,Schweizer,Schweitzer,1539,md,enhg,Straßburg,NewKreuetterBuch
+88149641,Apotheker,Apotheker,Apotecker,1539,md,enhg,Straßburg,NewKreuetterBuch
+88054531,Krämer,Pulverkrämern,kremern,1539,md,enhg,Straßburg,NewKreuetterBuch
+88073274,Reiser,Reisern,reisern,1539,md,enhg,Straßburg,NewKreuetterBuch
+88114505,Apotheker,Apothekern,Apoteckern,1539,md,enhg,Straßburg,NewKreuetterBuch
+88176437,Apotheker,Apotheker,Apotecker,1543,md,enhg,Basel,NewKreuetterbbuch
+88195022,Apotheker,Apotheker,Apotecker,1543,md,enhg,Basel,NewKreuetterbbuch
+88208044,Apotheker,Apotheker,Apotecker,1543,md,enhg,Basel,NewKreuetterbbuch
+88223701,Apotheker,Apotheker,Apotecker,1543,md,enhg,Basel,NewKreuetterbbuch
+88170225,Kräutler,Kräutlern,kreütlern,1543,md,enhg,Basel,NewKreuetterbbuch
+88207166,Apotheker,Apothekern,Apoteckern,1543,md,enhg,Basel,NewKreuetterbbuch
+88233796,Kräutler,Kräutlern,kreütlern,1543,md,enhg,Basel,NewKreuetterbbuch
+88855156,Leser,Leser,Läser,1557,md,enhg,Basel,WieSichMeniglich
+88856822,Tadler,Tadler,tadler,1557,md,enhg,Basel,WieSichMeniglich
+88857225,Leser,Leser,läser,1557,md,enhg,Basel,WieSichMeniglich
+88861038,Leser,Leser,läser,1557,md,enhg,Basel,WieSichMeniglich
+88912856,Leser,Leser,läser,1557,md,enhg,Basel,WieSichMeniglich
+88913443,Leser,Leser,läser,1557,md,enhg,Basel,WieSichMeniglich
+88913568,Gräber,Wurzengräber,wurtzengraber,1557,md,enhg,Basel,WieSichMeniglich
+88910630,Balbierer,Balbierer,balbierer,1557,md,enhg,Basel,WieSichMeniglich
+88022231,Apotheker,Apotheker,Apothecker,1563,md,enhg,Prag,NewKreueterbuch
+88028157,Schäfer,Schäfer,Schäfer,1563,md,enhg,Prag,NewKreueterbuch
+88047395,Jäger,Jäger,jäger,1563,md,enhg,Prag,NewKreueterbuch
+88314832,Sünder,Sünder,Sünder,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88317107,Retter,Retter,Retter,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88341417,Sünder,Sünder,Sünder,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88342155,Lehrer,Lehrer,Lehrer,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88342644,Lehrer,Lehrer,Lehrer,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88348381,Erlöser,Erlöser,Erlöser,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88354522,Gärtner,Gärtner,Gärtner,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88360945,Heuchler,Heuchler,Heuchler,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88361681,Heuchler,Heuchler,Heuchler,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88361819,Pharisäer,Pharisäer,Phariseer,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88362153,Pharisäer,Pharisäer,Phariseer,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88362312,Heuchler,Heuchler,Heuchler,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88348343,Mittler,Mittler,Mittler,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+88353500,Lehrer,Lehrern,Lehrern,1588,obd,enhg,Frankfurt am Main,Paradeiszgaertlein
+86550047,Leser,Leser,Leser,1603,md,enhg,Frankfurt am Main,AlchymistischePractic
+86550112,Leser,Leser,Leser,1603,md,enhg,Frankfurt am Main,AlchymistischePractic
+86579350,Töpfer,Töpfer,Töpffer,1603,md,enhg,Frankfurt am Main,AlchymistischePractic
+86593302,Apotheker,Apotheker,Apotecker,1603,md,enhg,Frankfurt am Main,AlchymistischePractic
+87809461,Italiener,Italiener,Italianer,1609,md,enhg,Frankfurt am Main,HortulusSanitatis
+87809542,Araber,Araber,Arabier,1609,md,enhg,Frankfurt am Main,HortulusSanitatis
+87812526,Italiener,Italiener,Italianer,1609,md,enhg,Frankfurt am Main,HortulusSanitatis
+87827280,Betrüger,Landbetrüger,Landtbetrieger,1609,md,enhg,Frankfurt am Main,HortulusSanitatis
+87828952,Tridentiner,Tridentiner,Tridentiner,1609,md,enhg,Frankfurt am Main,HortulusSanitatis
+87812976,Fehler,Fehler,Fehler,1609,md,enhg,Frankfurt am Main,HortulusSanitatis
+87789994,Italiener,Italienern,Italianern,1609,md,enhg,Frankfurt am Main,HortulusSanitatis
+87796856,Italiener,Italienern,Italiänern,1609,md,enhg,Frankfurt am Main,HortulusSanitatis
+87827874,Italiener,Italienern,Italianern,1609,md,enhg,Frankfurt am Main,HortulusSanitatis
+88363427,Leser,Leser,Leser,1639,obd,enhg,Bern,PflantzGart
+88363527,Leser,Leser,Leser,1639,obd,enhg,Bern,PflantzGart
+88367043,Römer,Römer,Römer,1639,obd,enhg,Bern,PflantzGart
+88368945,Pflanzer,Pflanzer,Pflantzer,1639,obd,enhg,Bern,PflantzGart
+88369437,Römer,Römer,Römer,1639,obd,enhg,Bern,PflantzGart
+88378755,Beschätzer,Beschätzer,Beschätzer,1639,obd,enhg,Bern,PflantzGart
+88379247,Leser,Leser,Leser,1639,obd,enhg,Bern,PflantzGart
+88384434,Leser,Leser,Leser,1639,obd,enhg,Bern,PflantzGart
+88384555,Leser,Leser,Leser,1639,obd,enhg,Bern,PflantzGart
+88406555,Leser,Leser,Leser,1639,obd,enhg,Bern,PflantzGart
+88428198,Pflanzer,Pflanzer,Pflantzer,1639,obd,enhg,Bern,PflantzGart
+88415344,Fehler,Fehler,Fähler,1639,obd,enhg,Bern,PflantzGart
+88418356,Fehler,Fehler,Fähler,1639,obd,enhg,Bern,PflantzGart
+88419076,Fehler,Fehler,Fähler,1639,obd,enhg,Bern,PflantzGart
+88420849,Fehler,Fehler,Fähler,1639,obd,enhg,Bern,PflantzGart
+88366695,Römer,Römern,Römeren,1639,obd,enhg,Bern,PflantzGart
+88368973,Römer,Römern,Römeren,1639,obd,enhg,Bern,PflantzGart
+88374724,Liebhaber,Liebhabern,Liebhaberen,1639,obd,enhg,Bern,PflantzGart
+88384922,Liebhaber,Liebhabern,Liebhaberen,1639,obd,enhg,Bern,PflantzGart
+88430965,Räumer,Baumräumern,raumern,1639,obd,enhg,Bern,PflantzGart
+88918247,Nachfolger,Nachfolger,Nachfolger,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88947861,Araber,Araber,Araber,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88950227,Träger,Träger,Träger,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88950250,Gräber,Totengräber,Todtengräber,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88952824,Einwohner,Einwohner,Jnwohner,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88954847,Gräber,Totengräber,Todtengräber,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88957523,Diener,Diener,Diener,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88960020,Gräber,Totengräber,Todtengräber,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88960394,Gräber,Totengräber,Todtengräber,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88962231,Macher,Bussenmacher,Bussenmacher,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88962676,Macher,Bußenmacher,Buszenmacher,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88926162,Araber,Arabern,Arabern,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88935282,Lateiner,Lateinern,Lateinern,1652,md,enhg,Frankfurt am Main,Wund-Artzney
+88481933,Splitter,Splitter,Splitter,1662,obd,enhg,Ulm,Phythologia
+88680921,Schlachter,Schlachter,Schlachter,1673,NA,enhg,Nürnberg,ThesaurusSanitatis
+88639083,Zünder,Zündern,Zündern,1673,NA,enhg,Nürnberg,ThesaurusSanitatis
+88555419,Splitter,Splitter,Splitter,1675,NA,enhg,NA,SonderbaresKraeuterbuch
+88486792,Gärtner,Gärtner,Gärtner,1687,obd,enhg,Zug (Schweiz),SchweizerischerBotanicus
+88486934,Straßburger,Straßburger,Straszburger,1687,obd,enhg,Zug (Schweiz),SchweizerischerBotanicus
+88490023,Gärtner,Gärtner,Gärtner,1687,obd,enhg,Zug (Schweiz),SchweizerischerBotanicus
+88496499,Passauer,Passauer,Passawer,1687,obd,enhg,Zug (Schweiz),SchweizerischerBotanicus
+88500341,Gärtner,Gärtner,Gärtner,1687,obd,enhg,Zug (Schweiz),SchweizerischerBotanicus
+88501745,Leser,Leser,Leser,1687,obd,enhg,Zug (Schweiz),SchweizerischerBotanicus
+88514294,Gärtner,Gärtner,Gärtner,1687,obd,enhg,Zug (Schweiz),SchweizerischerBotanicus
+88500858,Italiener,Italienern,Italieneren,1687,obd,enhg,Zug (Schweiz),SchweizerischerBotanicus
+88592830,Überwinder,Überwinder,überwinder,1696,NA,enhg,Basel,TheatrumBotanicum
+88593282,Überwinder,Überwinder,überwinder,1696,NA,enhg,Basel,TheatrumBotanicum
+88584517,Apotheker,Apothekern,Apotheckern,1696,NA,enhg,Basel,TheatrumBotanicum
+88592732,Römer,Römern,Römern,1696,NA,enhg,Basel,TheatrumBotanicum
+88752931,Italiener,Italiener,Italianer,1719,NA,nhg,Frankfurt am Main,ViridariumReformatum
+88778836,Prediger,Schiffsprediger,Schiff-Prediger,1719,NA,nhg,Frankfurt am Main,ViridariumReformatum
+88769321,Italiener,Italienern,Italiänern,1719,NA,nhg,Frankfurt am Main,ViridariumReformatum
+87421950,Vorgänger,Vorgänger,Vorgänger,1722,NA,nhg,Leipzig,FloraSaturnizans
+87432973,Leser,Leser,Leser,1722,NA,nhg,Leipzig,FloraSaturnizans
+87434680,Radeburger,Radeburger,Radeburger,1722,NA,nhg,Leipzig,FloraSaturnizans
+87447148,Maler,Maler,Mahler,1722,NA,nhg,Leipzig,FloraSaturnizans
+87450908,Waldenburger,Waldenburger,Waldenburger,1722,NA,nhg,Leipzig,FloraSaturnizans
+87462044,Leser,Leser,Leser,1722,NA,nhg,Leipzig,FloraSaturnizans
+87462255,Künstler,Glaskünstler,Glasz-Künstler,1722,NA,nhg,Leipzig,FloraSaturnizans
+87425518,Zunder,Zunder,Zunder,1722,NA,nhg,Leipzig,FloraSaturnizans
+87928503,Zauberer,Zauberer,Zauberer,1735,NA,enhg,Frankfurt/Leipzig,MysterivmSigillorvm
+87979129,Leser,Leser,Leser,1735,NA,enhg,Frankfurt/Leipzig,MysterivmSigillorvm
+86767038,Grenzwälder,Grenzwälder,Gräntz-Wälder,1750,NA,enhg,Nürnberg,BlackwellischesKraeuterbuch
+88716019,Savojer,Savojer,Savojer,1774,NA,nhg,Riga,Unterricht
+88716960,Savojer,Savojer,Savojer,1774,NA,nhg,Riga,Unterricht
+88718543,Savojer,Savojer,Savojer,1774,NA,nhg,Riga,Unterricht
+88718851,Splitter,Splitter,Splitter,1774,NA,nhg,Riga,Unterricht
+88730259,Gärtner,Gärtner,Gärtner,1774,NA,nhg,Riga,Unterricht
+88745090,Einwohner,Einwohner,Einwohner,1774,NA,nhg,Riga,Unterricht
+87731844,Forscher,Naturforscher,Naturforscher,1792,NA,nhg,Berlin,GrundrissKraeuterkunde
+87734024,Forscher,Naturforscher,Naturforscher,1792,NA,nhg,Berlin,GrundrissKraeuterkunde
+87764302,Forscher,Naturforscher,Naturforscher,1792,NA,nhg,Berlin,GrundrissKraeuterkunde
+87762719,Entdecker,Entdecker,Entdecker,1792,NA,nhg,Berlin,GrundrissKraeuterkunde
+86608394,Beobachter,Beobachter,Beobachter,1793,NA,enhg,Leipzig,Apothekerlexikon
+87681283,Botaniker,Botanikern,Botanikern,1809,NA,enhg,Berlin,GetreueDarstellungUndBeschreibung
+87300232,Bewohner,Bewohner,Bewohner,1821,NA,nhg,Regensburg,Flora-6
+87308059,Botaniker,Botaniker,Botaniker,1821,NA,nhg,Regensburg,Flora-6
+87321813,Tiroler,Tyroler,Tyroler,1821,NA,nhg,Regensburg,Flora-7
+87326644,Botaniker,Botaniker,Botaniker,1821,NA,nhg,Regensburg,Flora-7
+87333623,Apotheker,Apotheker,Apotheker,1821,NA,nhg,Regensburg,Flora-7
+87309892,Fehler,Fehler,Fehler,1821,NA,nhg,Regensburg,Flora-6
+87339769,Fehler,Druckfehler,Druckfehler,1821,NA,nhg,Regensburg,Flora-7
+87328358,Bayer,Bayern,Bayern,1821,NA,nhg,Regensburg,Flora-7
+87328376,Österreicher,Östreichern,Oestreichern,1821,NA,nhg,Regensburg,Flora-7
+87203368,Italiener,Italiener,Jtaliener,1828,NA,nhg,München,EigenschaftenAllerHeilpflanzen
+88240828,Botaniker,Botaniker,Botaniker,1840,NA,nhg,Berlin,NochEinigeWorte
+88243659,Schriftsteller,Schriftsteller,Schriftsteller,1840,NA,nhg,Berlin,NochEinigeWorte
+88248438,Gärtner,Gärtner,Gärtner,1840,NA,nhg,Berlin,NochEinigeWorte
+88251349,Träger,Träger,Träger,1840,NA,nhg,Berlin,NochEinigeWorte
+88255355,Behälter,Samenbehälter,Saamenbehälter,1840,NA,nhg,Berlin,NochEinigeWorte
+88269492,Träger,Embryoträger,Embryo-träger,1840,NA,nhg,Berlin,NochEinigeWorte
+88271662,Träger,Embryoträger,Embryoträger,1840,NA,nhg,Berlin,NochEinigeWorte
+88276527,Träger,Träger,Träger,1840,NA,nhg,Berlin,NochEinigeWorte
+88276628,Träger,Träger,Träger,1840,NA,nhg,Berlin,NochEinigeWorte
+88276684,Träger,Träger,Träger,1840,NA,nhg,Berlin,NochEinigeWorte
+88277605,Träger,Träger,Träger,1840,NA,nhg,Berlin,NochEinigeWorte
+88277914,Träger,Träger,Träger,1840,NA,nhg,Berlin,NochEinigeWorte
+88278221,Träger,Träger,Träger,1840,NA,nhg,Berlin,NochEinigeWorte
+88279000,Träger,Embryoträger,Embryoträger,1840,NA,nhg,Berlin,NochEinigeWorte
+88279755,Träger,Träger,Träger,1840,NA,nhg,Berlin,NochEinigeWorte
+88305517,Träger,Träger,Träger,1840,NA,nhg,Berlin,NochEinigeWorte
+88311266,Gärtner,Hofgärtner,Hofgärtner,1840,NA,nhg,Berlin,NochEinigeWorte
+88280700,Gärtner,Gaertner,Gaertner,1840,NA,nhg,Berlin,NochEinigeWorte
+88243334,Leser,Lesern,Lesern,1840,NA,nhg,Berlin,NochEinigeWorte
+88249025,Gärtner,Gärtnern,Gärtnern,1840,NA,nhg,Berlin,NochEinigeWorte
+88249047,Liebhaber,Blumenliebhabern,Blumenliebhabern,1840,NA,nhg,Berlin,NochEinigeWorte
+88786997,Botaniker,Botaniker,Botaniker,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+88802629,Dichter,Dichter,Dichter,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+88808653,Dichter,Dichter,Dichter,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+88809077,Verfasser,Verfasser,Verfasser,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+88831787,Gärtner,Gärtner,Gärtner,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+88831997,Schriftsteller,Schriftsteller,Schriftsteller,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+88833289,Behälter,Behälter,Behälter,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+88835722,Behälter,Behälter,Behälter,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+88838256,Behälter,Behälter,Behälter,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+88838333,Botaniker,Botaniker,Botaniker,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+88850739,Verfasser,Verfasser,Verfasser,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+88850843,Kutscher,Lohnkutscher,Lohnkutscher,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+88838847,Botaniker,Botanikern,Botanikern,1843,NA,nhg,Berlin,VorlesungenUeberKraeuterkunde
+87688006,Blümler,Schmetterlingsblütler,Schmetterlingsblümler,1860,NA,enhg,Ulm,GrossesIllustriertesKraeuterbuch
+87701434,Würger,Hundswürger,Hundswürger,1860,NA,enhg,Ulm,GrossesIllustriertesKraeuterbuch
+87706626,Blümler,Lippenblütler,Lippenblümler,1860,NA,enhg,Ulm,GrossesIllustriertesKraeuterbuch
+87707870,Blümler,Schmetterlingsblütler,Schmetterlingsblümler,1860,NA,enhg,Ulm,GrossesIllustriertesKraeuterbuch
+87708779,Blütler,Vereinblütler,Vereinblüthler,1860,NA,enhg,Ulm,GrossesIllustriertesKraeuterbuch
+87710146,Wittlinger,Wittlinger,Wittlinger,1860,NA,enhg,Ulm,GrossesIllustriertesKraeuterbuch
+87717616,Blümler,Schmetterlingsblütler,Schmetterlingsblümler,1860,NA,enhg,Ulm,GrossesIllustriertesKraeuterbuch
+87719476,Blümler,Lippenblütler,Lippenblümler,1860,NA,enhg,Ulm,GrossesIllustriertesKraeuterbuch
+87017455,Herrscher,Herrscher,Herrscher,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87019902,Botaniker,Botaniker,Botaniker,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87019920,Botaniker,Nichtbotaniker,Nichtbotaniker,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87034061,Köcher,Köcher,Köcher,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87051162,Schlosser,Schlosser,Schlosser,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87051180,Töpfer,Töpfer,Töpfer,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87059414,Kräutler,Kräutler,Kräutler,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87070963,Früchtler,Zapfenfrüchtler,Zapfenfrüchtler,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87071013,Blümler,Sternblümler,Sternblümler,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87093099,Kräutler,Kräutler,Kräutler,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87093483,Botaniker,Botaniker,Botaniker,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87096443,Apotheker,Apotheker,Apotheker,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87097451,Vorläufer,Vorläufer,Vorläufer,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87101860,Verfasser,Verfasser,Verfasser,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87101970,Forscher,Sprachforscher,Sprachforscher,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87360730,Koblenzer,Koblenzer,Coblenzer,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87362433,Botaniker,Botaniker,Botaniker,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87371677,Ausläufer,Ausläufer,Ausläufer,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87373937,Montabaurer,Montabaurer,Montabaurer,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87375317,Ausläufer,Ausläufer,Ausläufer,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87378273,Entdecker,Entdecker,Entdecker,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87380296,Ausläufer,Ausläufer,Ausläufer,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87383785,Verfasser,Verfasser,Verfasser,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87384362,Deutzer,Deutzer,Deutzer,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87387776,Algesheimer,Algesheimer,Algesheimer,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87388358,Vorsteher,Gemeindevorsteher,Gemeindevorsteher,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87388589,Botaniker,Botaniker,Botaniker,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87389947,Träger,Fruchtträger,Fruchtträger,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87390213,Träger,Fruchtträger,Fruchtträger,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87014065,Botaniker,Botanikern,Botanikern,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87047165,Botaniker,Botanikern,Botanikern,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87058942,Sammler,Sammlern,Sammlern,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87059039,Kräutler,Kräutlern,Kräutlern,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87096473,Sammler,Kräutersammlern,Kräutersammlern,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87102274,Forscher,Sprachforschern,Sprachforschern,1870,NA,nhg,Stettin,DeutschePflanzennamen
+87365850,Träger,Trägern,Trägern,1870,NA,nhg,Bonn,FloraDerPreussischenRheinlande
+87618303,Blümler,Schmetterlingsblümler,Schmetterlingsblümler,1874,NA,enhg,Wien und Pest,GemeinnuetzigesKraeuterbuch
+87629822,Blütler,Vereinblütler,Vereinblüthler,1874,NA,enhg,Wien und Pest,GemeinnuetzigesKraeuterbuch
+87635990,Apotheker,Apotheker,Apotheker,1874,NA,enhg,Wien und Pest,GemeinnuetzigesKraeuterbuch
+87637247,Blümler,Schmetterlingsblümler,Schmetterlingsblümer,1874,NA,enhg,Wien und Pest,GemeinnuetzigesKraeuterbuch
+87638890,Streicher,Landstreicher,Landstreicher,1874,NA,enhg,Wien und Pest,GemeinnuetzigesKraeuterbuch
+87649215,Blümler,Schetterlingsblümler,Schetterlingsblümler,1874,NA,enhg,Wien und Pest,GemeinnuetzigesKraeuterbuch
+87844474,Ausläufer,Ausläufer,Ausläufer,1914,NA,nhg,Esslingen/München,Kraeuterbuch
+87851247,Schneeberger,Schneeberger,Schneeberger,1914,NA,nhg,Esslingen/München,Kraeuterbuch
+87861607,Tyroler,Tiroler,tiroler,1914,NA,nhg,Esslingen/München,Kraeuterbuch
+87862616,Schneider,Schneider,Schneider,1914,NA,nhg,Esslingen/München,Kraeuterbuch
+87858741,Gärtner,Gaertner,Gaertner,1914,NA,nhg,Esslingen/München,Kraeuterbuch
+87863447,Begleiter,Kulturbegleitern,Kulturbegleitern,1914,NA,nhg,Esslingen/München,Kraeuterbuch
